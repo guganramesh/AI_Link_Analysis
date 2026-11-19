@@ -110,4 +110,4 @@ Before submitting, make the GitHub repository public and email the live demo URL
 Successful POST request to the deployed Render API.
 
 ![Swagger UI showing a successful API response](screenshots/api-success.png)
-![Swagger UI showing a successful API response](screenshots/api-success2.png)
+![Swagger UI showing a successful API response](screenshots/api-success3.png)
