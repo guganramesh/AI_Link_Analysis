@@ -104,3 +104,10 @@ The tests cover successful response mapping, extraction and LLM error handling, 
 Deploy the service to a public host, configure `GEMINI_API_KEY` and (optionally) `GEMINI_MODEL` as host environment variables, and verify the live `/`, `/docs`, and `POST /link-analysis` endpoints. Do not commit `.env` or credentials. Capture a real `/docs` screenshot or request/response log after deployment; none is included until a live deployment exists.
 
 Before submitting, make the GitHub repository public and email the live demo URL, `/docs` URL, public repository URL, and the requested applicant/contact details to the recruiter.
+
+## Successful API test
+
+Successful POST request to the deployed Render API.
+
+![Swagger UI showing a successful API response](screenshots/api-success.png)
+![Swagger UI showing a successful API response](screenshots/api-success2.png)
